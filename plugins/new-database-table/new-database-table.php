@@ -3,7 +3,7 @@
 /*
   Plugin Name: Pet Adoption (New DB Table)
   Version: 1.0
-  Author: Brad
+  Author: Alice
   Author URI: https://www.udemy.com/user/bradschiff/
 */
 
